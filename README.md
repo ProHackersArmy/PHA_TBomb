@@ -216,7 +216,7 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 ##
 ### Support
 
-For Queries: [Telegram Group](https://t.me/TBombChat)  
+For Queries: [Mail](prohackersarmy@gmail.com)  
 Contributions, issues, and feature requests are welcome!  
 Give a ★ if you like this project!
 
