@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+  <a href="https://github.com/ProHackersArmy/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
   <br>
   TBomb v2.1b
   <br>
@@ -162,7 +162,7 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 
 **Q:** Is there any TBomb Website/App ?
 
-**A:** There is no official website/app yet.The only official releases of TBomb are published in [Github](https://github.com/TheSpeedX/TBomb) and [PyPi](https://pypi.org/project/tbomb)
+**A:** There is no official website/app yet.The only official releases of TBomb are published in [Github](https://github.com/ProHackersArmy/TBomb) and [PyPi](https://pypi.org/project/tbomb)
 ##
 **Q:** Poor Internet Connection Detected:
 
@@ -216,7 +216,7 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 ##
 ### Support
 
-For Queries: [Telegram Group](https://t.me/TBombChat)  
+For Queries: [Email](prohackersarmy@gmail.com)  
 Contributions, issues, and feature requests are welcome!  
 Give a ★ if you like this project!
 
